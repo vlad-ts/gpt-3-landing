@@ -1,5 +1,5 @@
 <h1 align="center">
-  Responsive ChatGPT-3 Website 🌱<br/>
+  Responsive ChatGPT-3 Website 🤖<br/>
   <a href="https://gpt-3-vlad-ts.netlify.app/" target="_blank">GPT-3</a>
 </h1>
 
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-### Responsive ChatGPT-3 Website 🌱
+### Responsive ChatGPT-3 Website 🤖
 
 - Responsive ChatGPT-3 Website Using React.js.
 - Developed first with the Mobile First methodology, then for desktop.
